@@ -331,17 +331,3 @@ while True:
 
  print("Mevcut Sunucu Bilgisayar Bilgileri:")
  Bilgisayar2.bilgilerigoster()
-
-
-
-
-
-
-
-      
-
-
-
- 
-
-
